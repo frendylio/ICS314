@@ -4,3 +4,6 @@
 [submodule "islandsnow"]
 	path = islandsnow
 	url = https://github.com/frendylio/islandsnow
+[submodule "digits"]
+	path = digits
+	url = https://github.com/frendylio/digits
