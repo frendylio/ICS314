@@ -2,3 +2,5 @@
 .idea
 .DS_Store
 node_modules
+settings.production.json
+package-lock.json
