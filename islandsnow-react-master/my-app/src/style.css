@@ -1,0 +1,25 @@
+body{
+  margin-top: 50px;
+}
+.grey-background {
+  background-color: #2A2A2A;
+  height: 200px;
+  color: white;
+  padding: 20px 30px 20px 30px;
+}
+.black{
+  color: white;
+  background-color:black;
+}
+
+.white{
+  color: white;
+}
+
+.centered{
+  text-align: center;
+}
+
+.color{
+  background-color: #F6F5F5 !important;
+}

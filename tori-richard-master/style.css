@@ -1,0 +1,23 @@
+.leftmenu{
+  color: #00b6cc !important;
+  font-size: 15px !important;
+}
+
+.menu{
+  border-color: transparent !important
+}
+
+.centermenu{
+  color: #7d7d7c !important;
+  right: -50px;
+  font-size: 15px !important;
+}
+
+.search{
+  color: red !important;
+}
+
+.size{
+  font-size: 15px !important;
+  color: #00b6cc !important;
+}

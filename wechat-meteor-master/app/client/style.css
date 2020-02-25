@@ -1,0 +1,36 @@
+.ui.topmenu.menu {
+  background-color: black;
+  margin: 0px;
+  border-radius: 0px;
+}
+
+.footer-background {
+  background-color: #f96d21;
+  color: white;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.footer-one {
+  font-size: 25px;
+}
+
+.ui.menu .item {
+  color: #ccc;
+  font-size: 22px;
+}
+
+.white{
+  color:white;
+}
+
+.background{
+  background: url(./images/background.jpg) no-repeat center center fixed !important;
+  background-size: cover !important;
+}
+
+.white{
+  color: #a8a8a8 !important;
+  font-size: small  !important;
+}
+
